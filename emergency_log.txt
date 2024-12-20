@@ -1,0 +1,1 @@
+Emergency at 2024-12-19 22:33:40 - Panic button pressed. Location: (22.717, 75.8337)
